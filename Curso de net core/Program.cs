@@ -19,6 +19,8 @@ namespace Curso_de_net_core
             Console.WriteLine(list.Size());
             list.Listar();
             Console.ReadKey();
+
+            //asdasds
         }
     }
 }
